@@ -24,7 +24,7 @@ $ kameleoon-sdk
 - Alternatively use `npx` to run `kameleoon-sdk` script without installing:
 
 ```
-$ npx kameleoon-sdk
+$ npx @kameleoon/sdk-installer
 ```
 
 ## How to Use
