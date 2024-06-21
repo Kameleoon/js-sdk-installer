@@ -17,14 +17,15 @@ For more information on SDKs refer to [Official Kameleoon Documentation](https:/
 
 - Then run:
 
-```
-$ kameleoon-sdk
+```sh
+npm install --global @kameleoon/sdk-installer
+kameleoon-sdk
 ```
 
 - Alternatively use `npx` to run `kameleoon-sdk` script without installing:
 
-```
-$ npx @kameleoon/sdk-installer
+```sh
+npx @kameleoon/sdk-installer
 ```
 
 ## How to Use
