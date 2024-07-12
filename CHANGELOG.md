@@ -1,5 +1,11 @@
 # Change Log
 
+## 1.1.1 (2024-07-12)
+
+### Patch Changes
+
+- Fixed the wrong order of arguments in NodeJS SDK code example `getFeatureFlagVariationKey`
+
 ## 1.1.0 (2024-06-21)
 
 ### Features
