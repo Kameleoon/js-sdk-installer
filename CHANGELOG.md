@@ -1,5 +1,11 @@
 # Change Log
 
+## 1.2.0 (2024-07-19)
+
+### Features
+
+- Added setup process, examples and description for the new `React` and `React Native` external dependency [`Pseudo Random Number Generator`](https://developers.kameleoon.com/feature-management-and-experimentation/web-sdks/react-js-sdk#pseudo-random-number-generator)
+
 ## 1.1.1 (2024-07-12)
 
 ### Patch Changes
