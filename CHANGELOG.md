@@ -1,5 +1,11 @@
 # Change Log
 
+## 1.2.1 (2024-07-12)
+
+### Patch Changes
+
+- Fix flawed deploy of version `1.2.0`
+
 ## 1.2.0 (2024-07-19)
 
 ### Features
