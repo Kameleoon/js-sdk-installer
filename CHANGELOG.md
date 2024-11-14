@@ -1,5 +1,11 @@
 # Change Log
 
+## 1.3.0 (2024-11-14)
+
+### Features
+
+- Added support for external `Logger` implementations
+
 ## 1.2.1 (2024-07-12)
 
 ### Patch Changes

@@ -18,7 +18,6 @@ For more information on SDKs refer to [Official Kameleoon Documentation](https:/
 - Then run:
 
 ```sh
-npm install --global @kameleoon/sdk-installer
 kameleoon-sdk
 ```
 
