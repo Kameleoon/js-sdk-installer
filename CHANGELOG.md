@@ -1,5 +1,11 @@
 # Change Log
 
+## 1.4.0
+
+### Minor Changes
+
+- Added an optional `EventSource` `onError` handler
+
 ## 1.3.0 (2024-11-14)
 
 ### Features
