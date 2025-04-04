@@ -1,8 +1,14 @@
 # Change Log
 
-## 1.4.0
+## 1.5.0 (2025-04-04)
 
-### Minor Changes
+### Features
+
+- Added `KameleoonProviderSSR` component in example for React.
+
+## 1.4.0 (2024-12-04)
+
+### Features
 
 - Added an optional `EventSource` `onError` handler
 
