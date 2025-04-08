@@ -1,5 +1,11 @@
 # Change Log
 
+## 1.6.0 (2025-04-08)
+
+### Features
+
+- Added a prompt to optionally include `react-native-mmkv` in the React Native install script.
+
 ## 1.5.0 (2025-04-04)
 
 ### Features
