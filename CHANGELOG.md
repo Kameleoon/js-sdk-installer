@@ -1,5 +1,11 @@
 # Change Log
 
+## 1.7.0 (2025-06-27)
+
+### Features
+
+- Updated generated examples to avoid usage of deprecated methods.
+
 ## 1.6.0 (2025-04-08)
 
 ### Features
